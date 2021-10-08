@@ -9,7 +9,7 @@
 /* CONTAINER */
 
 .container {
-    min-width: 1170px;
+    max-width: 1170px;
     margin: 0 auto;
 }
 
@@ -72,7 +72,7 @@
     width: calc((100% / 12) * 2);
 }
 
-.col- {
+.col-1 {
     width: calc(100% / 12);
 }
 
