@@ -10,7 +10,24 @@
     padding: 10px;
     text-align: center;
     background: #006cfa;
+    font-size: 13px;
     color: #fff;
 }
 
 /* UTILITIES */
+
+.flex-container {
+    display: flex;
+}
+
+.mb-20 {
+    margin-bottom: 20px;
+}
+
+.bgc-lightgreen {
+    background: #00e1b0;
+}
+
+.bgc-lightblue {
+    background: #006cfa;
+}
