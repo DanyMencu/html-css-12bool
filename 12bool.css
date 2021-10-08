@@ -24,7 +24,7 @@
 
 [class*="col-"] {
     flex: 0 0 auto;
-    padding: 1px;
+    padding: 2px;
 }
 
 .col-12 {
